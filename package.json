@@ -1,0 +1,22 @@
+{
+  "name": "opstool-balanceReport",
+  "version": "0.0.0",
+  "description": "This Ops Portal Plug-In generates account balance reports for both National and US staff.",
+  "main": "module.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/appdevdesigns/opstool-balanceReport.git"
+  },
+  "author": "Johnny Hausman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appdevdesigns/opstool-balanceReport/issues"
+  },
+  "homepage": "https://github.com/appdevdesigns/opstool-balanceReport"
+}
