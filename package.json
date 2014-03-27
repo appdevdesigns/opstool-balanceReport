@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/appdevdesigns/opstool-balanceReport/issues"
   },
-  "homepage": "https://github.com/appdevdesigns/opstool-balanceReport"
+  "homepage": "https://github.com/appdevdesigns/opstool-balanceReport",
+  "dependencies": {
+    "ad-utils": "git://github.com/appdevdesigns/ad-utils"
+  }
 }
